@@ -24,7 +24,7 @@ select length(supplierName) as length from suppliers where length > 20
 
 select \* from customers where customerName like '%market%'
 
-## add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _"Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
+## add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _" Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
 
 ## update _Bilbo Baggins_ record so that the postal code changes to _"11122"_.
 
